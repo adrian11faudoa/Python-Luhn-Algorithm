@@ -18,7 +18,7 @@ Example Code:
 You can also use the index operator to access a range of characters in a string with string[start:stop:step]:
 
 Example Code:
-        my_string = 'camperbot'
+```my_string = 'camperbot'
         my_string[0:6] == 'camper' # True
         my_string[0:6:3] == 'cp' # True
 
